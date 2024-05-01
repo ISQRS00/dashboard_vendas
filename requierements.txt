@@ -1,3 +1,6 @@
-plotly==5.21.0
-pandas==2.2.2
-requests==2.31.0
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
